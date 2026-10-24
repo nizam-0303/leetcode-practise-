@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0496-next-greater-element-i](https://github.com/nizam-0303/leetcode-practise-/tree/master/0496-next-greater-element-i) |
 | [1021-remove-outermost-parentheses](https://github.com/nizam-0303/leetcode-practise-/tree/master/1021-remove-outermost-parentheses) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/nizam-0303/leetcode-practise-/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1544-make-the-string-great](https://github.com/nizam-0303/leetcode-practise-/tree/master/1544-make-the-string-great) |
@@ -19,9 +20,15 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0496-next-greater-element-i](https://github.com/nizam-0303/leetcode-practise-/tree/master/0496-next-greater-element-i) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/nizam-0303/leetcode-practise-/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 ## Monotonic Stack
 |  |
 | ------- |
+| [0496-next-greater-element-i](https://github.com/nizam-0303/leetcode-practise-/tree/master/0496-next-greater-element-i) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/nizam-0303/leetcode-practise-/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
+## Hash Table
+|  |
+| ------- |
+| [0496-next-greater-element-i](https://github.com/nizam-0303/leetcode-practise-/tree/master/0496-next-greater-element-i) |
 <!---LeetCode Topics End-->
