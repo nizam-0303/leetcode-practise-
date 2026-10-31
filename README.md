@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/nizam-0303/leetcode-practise-/tree/master/0094-binary-tree-inorder-traversal) |
 | [0496-next-greater-element-i](https://github.com/nizam-0303/leetcode-practise-/tree/master/0496-next-greater-element-i) |
 | [1021-remove-outermost-parentheses](https://github.com/nizam-0303/leetcode-practise-/tree/master/1021-remove-outermost-parentheses) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/nizam-0303/leetcode-practise-/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
@@ -31,4 +32,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/nizam-0303/leetcode-practise-/tree/master/0496-next-greater-element-i) |
+## Tree
+|  |
+| ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/nizam-0303/leetcode-practise-/tree/master/0094-binary-tree-inorder-traversal) |
+## Depth-First Search
+|  |
+| ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/nizam-0303/leetcode-practise-/tree/master/0094-binary-tree-inorder-traversal) |
+## Binary Tree
+|  |
+| ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/nizam-0303/leetcode-practise-/tree/master/0094-binary-tree-inorder-traversal) |
 <!---LeetCode Topics End-->
