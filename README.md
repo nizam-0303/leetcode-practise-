@@ -44,4 +44,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/nizam-0303/leetcode-practise-/tree/master/0094-binary-tree-inorder-traversal) |
+## Linked List
+|  |
+| ------- |
+| [0876-middle-of-the-linked-list](https://github.com/nizam-0303/leetcode-practise-/tree/master/0876-middle-of-the-linked-list) |
+## Two Pointers
+|  |
+| ------- |
+| [0876-middle-of-the-linked-list](https://github.com/nizam-0303/leetcode-practise-/tree/master/0876-middle-of-the-linked-list) |
 <!---LeetCode Topics End-->
