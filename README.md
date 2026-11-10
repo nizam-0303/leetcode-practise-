@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/nizam-0303/leetcode-practise-/tree/master/0094-binary-tree-inorder-traversal) |
+| [0143-reorder-list](https://github.com/nizam-0303/leetcode-practise-/tree/master/0143-reorder-list) |
 | [0496-next-greater-element-i](https://github.com/nizam-0303/leetcode-practise-/tree/master/0496-next-greater-element-i) |
 | [1021-remove-outermost-parentheses](https://github.com/nizam-0303/leetcode-practise-/tree/master/1021-remove-outermost-parentheses) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/nizam-0303/leetcode-practise-/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
@@ -48,10 +49,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/nizam-0303/leetcode-practise-/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0143-reorder-list](https://github.com/nizam-0303/leetcode-practise-/tree/master/0143-reorder-list) |
 | [0876-middle-of-the-linked-list](https://github.com/nizam-0303/leetcode-practise-/tree/master/0876-middle-of-the-linked-list) |
 ## Two Pointers
 |  |
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/nizam-0303/leetcode-practise-/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0143-reorder-list](https://github.com/nizam-0303/leetcode-practise-/tree/master/0143-reorder-list) |
 | [0876-middle-of-the-linked-list](https://github.com/nizam-0303/leetcode-practise-/tree/master/0876-middle-of-the-linked-list) |
+## Recursion
+|  |
+| ------- |
+| [0143-reorder-list](https://github.com/nizam-0303/leetcode-practise-/tree/master/0143-reorder-list) |
 <!---LeetCode Topics End-->
