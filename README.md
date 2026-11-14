@@ -64,4 +64,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0024-swap-nodes-in-pairs](https://github.com/nizam-0303/leetcode-practise-/tree/master/0024-swap-nodes-in-pairs) |
 | [0143-reorder-list](https://github.com/nizam-0303/leetcode-practise-/tree/master/0143-reorder-list) |
+## Math
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/nizam-0303/leetcode-practise-/tree/master/0070-climbing-stairs) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/nizam-0303/leetcode-practise-/tree/master/0070-climbing-stairs) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/nizam-0303/leetcode-practise-/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
