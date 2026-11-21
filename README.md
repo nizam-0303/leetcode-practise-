@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/nizam-0303/leetcode-practise-/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [1021-remove-outermost-parentheses](https://github.com/nizam-0303/leetcode-practise-/tree/master/1021-remove-outermost-parentheses) |
 | [1544-make-the-string-great](https://github.com/nizam-0303/leetcode-practise-/tree/master/1544-make-the-string-great) |
 ## Stack
@@ -58,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/nizam-0303/leetcode-practise-/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/nizam-0303/leetcode-practise-/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0143-reorder-list](https://github.com/nizam-0303/leetcode-practise-/tree/master/0143-reorder-list) |
 | [0876-middle-of-the-linked-list](https://github.com/nizam-0303/leetcode-practise-/tree/master/0876-middle-of-the-linked-list) |
 ## Recursion
@@ -78,4 +80,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/nizam-0303/leetcode-practise-/tree/master/0070-climbing-stairs) |
+## String Matching
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/nizam-0303/leetcode-practise-/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Z Algorithm
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/nizam-0303/leetcode-practise-/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Knuth–Morris–Pratt Algorithm
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/nizam-0303/leetcode-practise-/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Boyer–Moore String-Search Algorithm
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/nizam-0303/leetcode-practise-/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 <!---LeetCode Topics End-->
